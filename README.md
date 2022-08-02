@@ -1,7 +1,7 @@
 # Philippe Covington
 
 
-### Hi there 👋
+### Howdy 👋
 
 🔭 I’m currently a software engineering student at General Assembly! | June 2022 - Sept 2022 <br>
 🌱 I’m currently learning: PostgreSQL | Sequelize | Vue.js | Python | Django <br>
